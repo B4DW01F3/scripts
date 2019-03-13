@@ -1,14 +1,2 @@
-function Load()
-CU = gg.alert("~~~~~~~~~~~~~~~~~~~~\n🔄Check Version Script🔄\n~~~~~~~~~~~~~~~~~~~~\n➣ script version 1.0","Copy Link Download")
-if CU == nil then
-else
-if CU == 1 then
-DNW()
-end
-MLHM = -1
-end
-end
 
-function DNW()
-gg.copyText('https://xnxx.com')
-end
+CU = gg.alert("~~~~~~~~~~~~~~~~~~~~\n🔄Check Version Script🔄\n~~~~~~~~~~~~~~~~~~~~\n➣ script version 1.0","Copy Link Download")
