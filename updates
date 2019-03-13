@@ -1,3 +1,4 @@
+function Load()
 CU = gg.alert("~~~~~~~~~~~~~~~~~~~~\n🔄Check Version Script🔄\n~~~~~~~~~~~~~~~~~~~~\n➣ script version 1.0","Copy Link Download")
 if CU == nil then
 else
