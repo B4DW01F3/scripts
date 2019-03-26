@@ -1,10 +1,11 @@
-# SpamSms
 
-Kumpulan Beberapa Script Spam Sms Buatan Para Mastah.
+ELGGByRevo
+5.5
+https://raw.githubusercontent.com/Revoxtical/ELGGByRevo/master/ELGGByRevo.v5.5.lua
+➣ Improved Hook Detected
+➣ Fix Error Use Loader
 
-Saya Hanya Bantu Nyusun Agar Lebih Mudah Di Gunakan Saja.
+This script only runs on the GG Mod By Revo
 
-Sebelum Menjalankan Spam AllCall
-Masukkan Nomer2 Yang Mau Di SpamCall
-Ke Dalam File No.txt Bisa di edit pake nano no.txt
-
+Don't Forget Subscribe My Youtube Channel
+👉 http://bit.ly/RevoxticalYt 👈
