@@ -1,0 +1,16 @@
+# Host By Cheat Pedia
+
+127.0.0.1 ip.ml.youngjoygame.com
+127.0.0.1 cs30.net
+127.0.0.1 161.202.203.8
+127.0.0.1 graph.facebook.com
+127.0.0.1 api.vk.com
+127.0.0.1 119.81.28.234
+127.0.0.1 static.yuanzhanapp.com
+127.0.0.1 m.mobilelegends.com
+127.0.0.1 wscdn.ml.youngjoygame.com
+127.0.0.1 e.crashlytics.com
+127.0.0.1 169.44.132.178
+
+127.0.0.1       localhost
+::1             ip6-localhost
